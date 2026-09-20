@@ -420,10 +420,10 @@
               "maxQuantityInTerminal": 0,
               "quantityPerDino": 1,
               "alternateSelectMode": 0,
-              "alternateItemsChance": 0,
+              "alternateItemsChance": 0.0,
               "alternateItems": [],
               "consumesSelectMode": 0,
-              "consumesItemsChance": 1,
+              "consumesItemsChance": 1.0,
               "consumesItems": [
                 {
                   "bpPath": "/Game/Aberration/WeaponPlantSpeciesZ/PrimalItem_PlantSpeciesZ_Grenade.PrimalItem_PlantSpeciesZ_Grenade",
