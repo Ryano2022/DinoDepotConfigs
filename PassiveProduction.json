@@ -24,7 +24,7 @@
                   "maxQuantityInTerminal": 0
                 }
               ],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -48,7 +48,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -66,7 +66,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -90,7 +90,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -108,7 +108,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -132,7 +132,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -156,7 +156,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -180,7 +180,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -204,7 +204,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             },
@@ -216,7 +216,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -240,7 +240,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -264,7 +264,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             },
@@ -276,7 +276,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 1.0,
               "consumesItems": [
                 {
@@ -307,7 +307,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             },
@@ -319,7 +319,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 1.0,
               "consumesItems": [
                 {
@@ -350,7 +350,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -374,7 +374,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -398,7 +398,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -422,7 +422,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": [
                 {
@@ -453,7 +453,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -477,7 +477,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -501,7 +501,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -525,7 +525,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -549,7 +549,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -573,7 +573,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -597,7 +597,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -621,7 +621,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -645,7 +645,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -663,7 +663,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -687,7 +687,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -705,7 +705,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -729,7 +729,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -747,7 +747,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -771,7 +771,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -789,7 +789,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -813,7 +813,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -831,7 +831,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -855,7 +855,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -873,7 +873,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -897,7 +897,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
@@ -915,7 +915,7 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0,
+              "consumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
             }
