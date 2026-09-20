@@ -415,7 +415,7 @@
           "itemSelectMode": 0,
           "items": [
             {
-              "bpPath": "Blueprint'/Game/Aberration/WeaponPlantSpeciesZ/PrimalItemConsumable_Seed_PlantSpeciesZ.PrimalItemConsumable_Seed_PlantSpeciesZ.PrimalItemConsumable_Seed_PlantSpeciesZ.PrimalItemConsumable_Seed_PlantSpeciesZ'",
+              "bpPath": "/Game/Aberration/WeaponPlantSpeciesZ/PrimalItemConsumable_Seed_PlantSpeciesZ.PrimalItemConsumable_Seed_PlantSpeciesZ",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
               "quantityPerDino": 1,
@@ -426,7 +426,7 @@
               "consumesItemsChance": 0,
               "consumesItems": [
                 {
-                  "bpPath": "Blueprint'/Game/Aberration/WeaponPlantSpeciesZ/PrimalItem_PlantSpeciesZ_Grenade.PrimalItem_PlantSpeciesZ_Grenade.PrimalItem_PlantSpeciesZ_Grenade.PrimalItem_PlantSpeciesZ_Grenade'",
+                  "bpPath": "/Game/Aberration/WeaponPlantSpeciesZ/PrimalItem_PlantSpeciesZ_Grenade.PrimalItem_PlantSpeciesZ_Grenade",
                   "quantityPerItem": 1,
                   "maxQuantityPerCycle": 0,
                   "maxQuantityInTerminal": 0
