@@ -358,7 +358,7 @@
         }
       ]
     },
-{
+    {
       "dinoType": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA",
       "chanceToProduce": 1.0,
       "produces": [
@@ -423,7 +423,7 @@
               "alternateItemsChance": 0,
               "alternateItems": [],
               "consumesSelectMode": 0,
-              "consumesItemsChance": 0,
+              "consumesItemsChance": 1,
               "consumesItems": [
                 {
                   "bpPath": "/Game/Aberration/WeaponPlantSpeciesZ/PrimalItem_PlantSpeciesZ_Grenade.PrimalItem_PlantSpeciesZ_Grenade",
